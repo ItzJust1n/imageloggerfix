@@ -1,0 +1,1 @@
+This is a fixed version for using https://github.com/ankit15015/IMAGE-LOGGER with Vercel. You only need to paste in this main.py instead of the original. Change Webhook and Image Link and your ready to go!
